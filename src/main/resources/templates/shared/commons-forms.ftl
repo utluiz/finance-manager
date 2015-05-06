@@ -1,0 +1,3 @@
+<#macro input>
+	<input />
+</#macro>
